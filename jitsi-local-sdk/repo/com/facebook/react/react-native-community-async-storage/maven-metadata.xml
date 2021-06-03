@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.facebook.react</groupId>
+  <artifactId>react-native-community-async-storage</artifactId>
+  <versioning>
+    <release>1.3.4-jitsi-3208083</release>
+    <versions>
+      <version>1.3.4-jitsi-2811042</version>
+      <version>1.3.4-jitsi-2811118</version>
+      <version>1.3.4-jitsi-2811171</version>
+      <version>1.3.4-jitsi-2845964</version>
+      <version>1.3.4-jitsi-2846199</version>
+      <version>1.3.4-jitsi-2847130</version>
+      <version>1.3.4-jitsi-2853168</version>
+      <version>1.3.4-jitsi-2853387</version>
+      <version>1.3.4-jitsi-2853488</version>
+      <version>1.3.4-jitsi-2854974</version>
+      <version>1.3.4-jitsi-2855721</version>
+      <version>1.3.4-jitsi-3208012</version>
+      <version>1.3.4-jitsi-3208083</version>
+    </versions>
+    <lastUpdated>20200107062615</lastUpdated>
+  </versioning>
+</metadata>
